@@ -59,11 +59,11 @@ Evaluate accuracy and visualize results
 
 # Results
 
-Achieved stable training and validation accuracy
+● Achieved stable training and validation accuracy
 
-Model effectively learns spatial features from images
+● Model effectively learns spatial features from images
 
-Suitable for further optimization and deployment
+● Suitable for further optimization and deployment
 
 📂 Repository Structure
 ├── CNN_model_Multi_IMG.ipynb
